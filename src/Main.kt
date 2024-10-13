@@ -3,7 +3,7 @@
  * PROJECT NAME HERE
  * Level 2 programming project
  *
- * by dylan
+ * by dylan collins
  *
  * BRIEF PROJECT DESCRIPTION HERE
  * BRIEF PROJECT DESCRIPTION HERE
